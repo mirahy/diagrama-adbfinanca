@@ -1,2 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-08-02T00:52:29.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SHsuo_tvq3Sp9-FQKYMi" version="20.2.2" type="device"><diagram id="nG2kZJfjxlOUiK6rbc6H" name="Página-1">7Vptb+I4EP41fDmpKE5IaD8WSvdOYnVoe6u7vS+VGxvw1YkjxyzQX3/jxE7I67YLbKUKCQk8M47tmWdmnlgMvGm0+yRxsv4sCOUD1yG7gXc3cF00ct2B/jhkn0vG10EuWElGjFEpeGAv1AgdI90wQtOKoRKCK5ZUhaGIYxqqigxLKbZVs6Xg1VUTvKINwUOIeVP6NyNqnUuv3XEp/52y1dqujIKbXBNha2xOkq4xEdsDkTcbeFMphMp/Rbsp5dp51i/5vPsObbExSWP1mgnPL9+u/r2J6EzN72eLT1/9q+fZlYnOd8w35sBfUyrNhtXeeiHdsojjGEaTpYjVg9E4MA7XjJM53ouN3kWqcPhsR5O1kOwF7DEHFQIBqKUyQXYD/TTG+VRwIbN1vOVy6YZhZeaDfqJZS9IU5i7skVFN9BnvKoZznCq7S8E5TlL2lO1bT4ywXLF4IpQSkTFKlRTP9GA7JHgKfL1N4yUqFd11uh8VQYVsoCKiSu7BxEwIDAxMHri+n4+3JarQtbFZHyCqyARskLwqHl2s9gWQj+MVnK1YblxbznEay41bVvNqi2GuqIyxohOxiUl6CDD4cXDOUpTB7g0Q9BoQvDJTbvU3eBeQ4npIR0hrYhzRXPegJItXNfVCCgCVsUjMoGoywanRP+lfVeUTk9pBWkvg3DUtjTDjPasnOE23QpKqSS2bAESqF25dWYE5W8Ug43SpH6DxyKBU3RqxEol+bIJDWHWe2dyNSskXE2YtEjB3ybNytGaE0FgnjVBY4acisxMBzs9w4E/gA8iYOkN/4MOWpjBG5Rg+2lyqqYjhVJhlKUEh/bZUp+Dr8qe7QDWTysI6eF0SITTqTqIKoN+K3lEDvQN3ovuRpBo9GQzyklrgJDfYJKTfADoptQawhbp6yWLyBynVF4ydCWNo1CydrSAb9xTqozBWMIgyvJQASzFD8MlarESM+ayUgqehYFNi/FzazIWOYNYC/6NK7U03xhsldN9Vke3VdMfUPwe/v+lHQSzy0Z1ttdlgbwcxnFdPunKGjhNYST51HLhWUM7ORpXpCyoZ+I3KoisDZ7jVVA4EschISCa7Z9qNZiKpWYDkQJ/7Tzutv3uDj8VGhrQnGMiyUOAPtA9VyG+HlaQcK/a9upOe5r4QWQ8seIRb7exeUINdvjEz6/Tt2p7/oOLN8SYO1xfSeHrS6I1+TOPaWePNB2eNqPnm0k8bGXmM1EuPdqObcIcaXkFDyRLFRNxD/kRCJdY2j2Vrb+GQZstaC+0R19f60z6lazN/7RP6yPOc6zBZ4H0EEHtUYNplM8Vsh7uUJUVu6iAf1SbtfCwXqXZNi/pCUo4gKaijUryVCd+ciwmj5ovchQp/NJS5782FUfOFy1acC/84/aWV+5O3VoXww/IP/438IwJgrC15YLJBHvYUyx5u0d90gTIwQR5hM5UNXArhzxfC0Una7fXZum1w6bYfHWQIvXu3HTfi+ytunuwtUsslkn/9ES6RDFX+8R1Sx9XkkXdIXv0Oyf+1d0hu8+UdNYBmCoktCyE4WYezwuVQS6GIIOUzHFZrhdesFV6jTpm4n7FYHFY/s9oJeJpbuyfyWni623ZNdLYr6+bLoDMcDn+7RPmY20BUi7ItzwdR9tqiHJwrys2XsUseH/cngXoee++cx83XnEseHxtlv95+W6r1ifIYhuU/jPL2Xf5Py5v9Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-02T00:55:08.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rQhB1XPV59TmaMTbkGaw" version="20.2.2" type="github">
+  <diagram id="nG2kZJfjxlOUiK6rbc6H" name="Página-1">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-2" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="60" y="255" width="180" height="210" as="geometry">
+            <mxRectangle x="60" y="255" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-3" value="- id: int&#xa;- name: String&#xa;- Profile: profile&#xa;- Base: base&#xa;- birth: date&#xa;- email: String&#xa;- password: String" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-2" vertex="1">
+          <mxGeometry y="26" width="180" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-4" value="+ create: User&#xa;+ update: User&#xa;+ delete: id&#xa;+ findId: id" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-2" vertex="1">
+          <mxGeometry y="140" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.762;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="kzY-Z9meEtLFEPGU5-kE-11" target="kzY-Z9meEtLFEPGU5-kE-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-11" value="Launch" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="180" height="290" as="geometry">
+            <mxRectangle x="70" y="200" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-12" value="- id: int&#xa;- id_mtz: int&#xa;- id_user: int&#xa;- description: String&#xa;- operation_date: date&#xa;- value: float&#xa;- Operation: int&#xa;- Type_launch: int&#xa;- Payment_type: int&#xa;- Caixa: int&#xa;- Base: int&#xa;- status: int&#xa;- Closing: int&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-11" vertex="1">
+          <mxGeometry y="26" width="180" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-13" value="+ create: User&#xa;+ update: User&#xa;+ delete: id&#xa;+ findId: id" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-11" vertex="1">
+          <mxGeometry y="220" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-14" value="Closing" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="620" y="255" width="180" height="180" as="geometry">
+            <mxRectangle x="70" y="200" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-15" value="- id: int&#xa;- month: Stirng&#xa;- year: String&#xa;- status: int&#xa;- period_valid: int" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-14" vertex="1">
+          <mxGeometry y="26" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-16" value="+ create: User&#xa;+ update: User&#xa;+ delete: id&#xa;+ findId: id" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kzY-Z9meEtLFEPGU5-kE-14" vertex="1">
+          <mxGeometry y="110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="kzY-Z9meEtLFEPGU5-kE-3" target="kzY-Z9meEtLFEPGU5-kE-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-22" value="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-23" value="0...*" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="317" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-24" value="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600" y="323" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kzY-Z9meEtLFEPGU5-kE-25" value="0...*" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="30" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
